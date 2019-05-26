@@ -1,0 +1,47 @@
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+algo sig: interrupt
+algo sig: interrupt
+algo sig: interrupt
+sig: interrupt
+algo exit
+algo exit
+algo exit
+exit
+wait signal
+algo wait signal
+sig: interrupt
+exit
+algo sig: interrupt
+algo exit
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+algo sig: interrupt
+algo sig: interrupt
+algo exit
+sig: interrupt
+algo exit
+exit
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+12976
+wait signal
+algo wait signal
+wait signal
+algo wait signal
+wait signal
+algo wait signal
